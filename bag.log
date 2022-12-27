@@ -1,0 +1,64 @@
+INFO:root:--Program started--
+INFO:root:User input, number of random numbers is 7
+INFO:root:1 number is 3
+INFO:root:2 number is 1
+INFO:root:3 number is 4
+INFO:root:4 number is 2
+INFO:root:5 number is 7
+INFO:root:6 number is 5
+INFO:root:7 number is 6
+INFO:root:--Program finished--
+INFO:root:--Program started--
+INFO:root:User input, number of random numbers is 13
+INFO:root:1 number is 6
+INFO:root:2 number is 4
+INFO:root:3 number is 1
+INFO:root:4 number is 9
+INFO:root:5 number is 11
+INFO:root:6 number is 10
+INFO:root:7 number is 8
+INFO:root:8 number is 12
+INFO:root:9 number is 13
+INFO:root:10 number is 3
+INFO:root:11 number is 5
+INFO:root:12 number is 2
+INFO:root:13 number is 7
+INFO:root:--Program finished--
+INFO:root:--Program started--
+INFO:root:User input, number of random numbers is 25
+INFO:root:1 number is 1
+INFO:root:2 number is 23
+INFO:root:3 number is 11
+INFO:root:4 number is 19
+INFO:root:5 number is 13
+INFO:root:6 number is 22
+INFO:root:7 number is 18
+INFO:root:8 number is 12
+INFO:root:9 number is 2
+INFO:root:10 number is 20
+INFO:root:11 number is 6
+INFO:root:12 number is 8
+INFO:root:13 number is 9
+INFO:root:14 number is 16
+INFO:root:15 number is 10
+INFO:root:16 number is 25
+INFO:root:17 number is 5
+INFO:root:18 number is 4
+INFO:root:19 number is 14
+INFO:root:20 number is 21
+INFO:root:21 number is 7
+INFO:root:22 number is 24
+INFO:root:23 number is 17
+INFO:root:24 number is 3
+INFO:root:25 number is 15
+INFO:root:--Program finished--
+INFO:root:--Program started--
+ERROR:root:ValuerError
+ERROR:root:ValuerError
+ERROR:root:ValuerError
+ERROR:root:Incorrect number
+INFO:root:User input, number of random numbers is 3
+INFO:root:1 number is 2
+INFO:root:2 number is 3
+INFO:root:3 number is 1
+INFO:root:--Program finished--
